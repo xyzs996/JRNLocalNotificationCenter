@@ -1,3 +1,5 @@
+ios本体推送封装类及demo
+
 [![Build Status](https://travis-ci.org/jarinosuke/JRNLocalNotificationCenter.png?branch=master)](https://travis-ci.org/jarinosuke/JRNLocalNotificationCenter)
 
 ## Requirements
